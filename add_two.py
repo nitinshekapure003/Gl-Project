@@ -1,3 +1,3 @@
-a = 3
-b = 4
-pritn(a+b)
+a = int(float(input("Enter a number: ")))
+b = int(float(input("Enter another number: ")))
+print(a+b)
